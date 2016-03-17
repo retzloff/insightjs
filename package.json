@@ -1,0 +1,25 @@
+{
+  "name": "insight.js",
+  "version": "0.0.1",
+  "description": "A reimagining of Insight (RoR) in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retzloff/insightjs.git"
+  },
+  "author": "Eric Retzloff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/retzloff/insightjs/issues"
+  },
+  "homepage": "https://github.com/retzloff/insightjs#readme",
+  "dependencies": {
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0",
+    "sqlite3": "^3.1.1",
+    "vision": "^4.0.1"
+  }
+}
